@@ -17,7 +17,7 @@ I am eager to gain practical experience, collaborate with diverse teams, and gro
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/ludwig-rex-olarte-3bba72378/)" target="_blank">
+<a href="https://www.linkedin.com/in/ludwig-rex-olarte-3bba72378/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ludwigrexolarte1002@gmail.com" target="_blank">

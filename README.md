@@ -27,8 +27,6 @@ I am eager to gain practical experience, collaborate with diverse teams, and gro
 
 ---
 
-can you update my languages and tools
-
 <h3 align="left">🛠 Languages & Tools</h3>
 
 <p align="left">

@@ -27,26 +27,33 @@ I am eager to gain practical experience, collaborate with diverse teams, and gro
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">🛠 Languages & Tools</h3><p align="left"><!-- Programming Languages -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3"/></a>
 
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<!-- Mobile & Frontend Frameworks -->
+<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React.js"/></a>
+<a href="https://expo.dev/" target="_blank"><img src="https://docs.expo.dev/static/images/favicon.ico" width="40" alt="Expo"/></a>
 
+<!-- Backend -->
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="Node.js"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" alt="Express.js"/></a>
 
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-<a href="https://www.photoshop.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/></a>
-<a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
+<!-- Database -->
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL"/></a>
+<a href="https://supabase.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" alt="Supabase"/></a>
+
+<!-- Version Control & Tools -->
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" width="40" alt="VS Code"/></a>
+
+<!-- Testing & Deployment -->
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" alt="Postman"/></a>
+<a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel"/></a>
+
 </p>
 
 

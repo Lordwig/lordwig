@@ -27,6 +27,8 @@ I am eager to gain practical experience, collaborate with diverse teams, and gro
 
 ---
 
+can you update my languages and tools
+
 <h3 align="left">🛠 Languages & Tools</h3>
 
 <p align="left">
@@ -49,9 +51,6 @@ I am eager to gain practical experience, collaborate with diverse teams, and gro
 <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a>
 </p>
 
----
-
-<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordwig&show_icons=true&locale=en&layout=compact" alt="lordwig" />
